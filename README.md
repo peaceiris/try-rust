@@ -4,6 +4,14 @@ Learning Rust.
 
 
 
+## rustup
+
+```sh
+curl https://sh.rustup.rs -sSf | sh
+```
+
+
+
 ## Links
 
 - [プログラミング言語 Rust](https://doc.rust-jp.rs/the-rust-programming-language-ja/1.9/book/)
